@@ -1,2 +1,0 @@
-my first git txt
-my windows has vim now
